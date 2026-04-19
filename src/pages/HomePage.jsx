@@ -472,7 +472,7 @@ export default function HomePage() {
 
           <div className="mt-12 flex flex-col sm:flex-row justify-center gap-4">
             <a
-              href="https://aduanomor.id"
+              href="https://aduannomor.id"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-red-700 border-2 border-red-600 px-6 py-3 rounded-lg font-bold hover:bg-red-50 transition flex items-center justify-center"
